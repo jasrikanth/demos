@@ -8,7 +8,7 @@ Item {
     property string creatstate:"creatstate"
     property string forgotstate:"forgotstate"
 
-    state: standedstate
+    state: creatstate
 
 
     Standerdlogin {
