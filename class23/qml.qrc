@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Login.qml</file>
+        <file>Standerdlogin.qml</file>
+        <file>Createlogin.qml</file>
+        <file>Forgotpassword.qml</file>
+        <file>Browes.qml</file>
+        <file>Home.qml</file>
+        <file>Originals.qml</file>
+        <file>Tvshows.qml</file>
+        <file>Movies.qml</file>
+        <file>Kids.qml</file>
+    </qresource>
+</RCC>
