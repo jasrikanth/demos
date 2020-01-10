@@ -11,5 +11,6 @@
         <file>Tvshows.qml</file>
         <file>Movies.qml</file>
         <file>Kids.qml</file>
+        <file>Delete.qml</file>
     </qresource>
 </RCC>
